@@ -50,7 +50,7 @@ On Ubuntu 10.10 you can install all the required libraries via:
 
     sudo apt-get install \
      g++ \
-     libboost1.42-dev \
+     libboost-dev \
      scons \
      pkg-config \
      libusb-1.0-0-dev \
